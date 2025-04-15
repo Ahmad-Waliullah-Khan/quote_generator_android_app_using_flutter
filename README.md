@@ -2,7 +2,7 @@
 
 ## Step 1: Conceptualization and Purpose
 
-The idea behind the app was simple yet profound – create a motivational platform that could inspire and encourage my wife during her work hours. The app was designed to fetch a daily inspirational quote along with a visually appealing background image to set a positive tone for the day.
+The idea behind the app was simple yet profound – create a motivational platform that could inspire and encourage.
 
 ## Step 2: Setting Up the Project
 
