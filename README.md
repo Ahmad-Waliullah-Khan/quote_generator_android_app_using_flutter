@@ -1,14 +1,4 @@
 
-# Quote Generator Android App using Flutter
-
-[Guide on how to create the app](https://blog.ahmadwkhan.com/how-to-create-a-quote-generator-android-app-using-flutter)
-
-
-Hello fellow coders and enthusiasts!
-
-I am absolutely thrilled to share something special with you today. In the midst of lines of code and the hum of a computer, life has presented me with a magical moment – I recently got married to the love of my life!
-
-After the joyous occasion of my wedding, I found my wife, in a bit of a dilemma about returning to work. Understanding the challenges and changes that come with such transitions, I decided to create a custom Flutter app to provide her with a daily dose of motivation. This app not only delivers inspirational quotes but also sets a personalized touch to brighten her workdays.
 
 ## Step 1: Conceptualization and Purpose
 
